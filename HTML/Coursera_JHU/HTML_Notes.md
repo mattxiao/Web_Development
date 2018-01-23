@@ -1,18 +1,20 @@
 # HTML
 
+## HTML Tag
 
-
-##HTML Tag
-
-####Overview
+#### Overview
 
 ```<p>content</p> ```
 
 here ```<p>``` is opening tag and ```</p>``` is closing tag, ```p``` itself is called element. But the truth is the term is used interchangeably now. So **element** and **tag** are usually mean the same thing.
 
-####Not all tags has closing tag
+
+
+#### Not all tags has closing tag
 
 For example, like ```<br>``` and ```<hr>``` don't have a closing tag.
+
+
 
 #### Attributes of element
 
@@ -22,7 +24,9 @@ For example, like ```<br>``` and ```<hr>``` don't have a closing tag.
 * Attribute can only be specified on the opening tag.
 * "id" attribute is unique, and each attribute will have its own rule
 
-####Self-Closing tag
+
+
+#### Self-Closing tag
 
 ```<p/>``` 
 

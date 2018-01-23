@@ -34,6 +34,10 @@ A self-closing tag is basically an XML type of shorthand notation for a tag that
 
 But in HTML5, it's illegal for the tag to be self closing, even though there is no content at the moment.
 
+&nbsp;
+
+
+
 #### Block-Level & Inline Element 
 
 | Block-Level Element                      | Inline Element              |

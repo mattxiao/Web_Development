@@ -30,13 +30,12 @@ A self-closing tag is basically an XML type of shorthand notation for a tag that
 
 But in HTML5, it's illegal for the tag to be self closing, even though there is no content at the moment.
 
+#### Block-Level & Inline Element 
 
-
-Block-Level Element | Inline Elements
-
-Render to begin on a new line | Render on the same line 
-
-May contain inline & block level element | only contain inline 
+| Block-Level Element                      | Inline Element              |
+| ---------------------------------------- | --------------------------- |
+| Render to begin on a new line            | Render on the same line     |
+| May contain inline & block level element | only contain inline element |
 
 
 
@@ -50,7 +49,7 @@ and ```<span>``` stands for span, inline element
 
 
 
-###
+
 
 
 
